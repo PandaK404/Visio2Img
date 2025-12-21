@@ -101,4 +101,3 @@
 | EMF | `.emf` | 矢量 | Windows 矢量格式，无损缩放 | Office 文档、Word 插图 |
 | SVG | `.svg` | 矢量 | 开放矢量格式，可编辑 | 网页、图形设计 |
 | PDF | `.pdf` | 矢量 | 通用文档格式（需 ImageMagick） | 打印、分享、存档 |
-
