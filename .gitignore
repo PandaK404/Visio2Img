@@ -1,0 +1,65 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.userprefs
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Type library (generated during registration)
+*.tlb
+
+# Distribution
+Publish/
+
+.cursor/
+.marketing/
+marketing/
+_playground/
+
+# Source code (keep only in local, publish pre-compiled releases)
+*.cs
+*.csproj
+*.sln
+lib/
+regasm_output.txt
+
+# Release zip files
+*.zip
+
+# Scripts (included in release package)
+install.bat
+uninstall.bat
+check_environment.bat
+LICENSE
+
+# Development docs (keep local only)
+docs/development.md
